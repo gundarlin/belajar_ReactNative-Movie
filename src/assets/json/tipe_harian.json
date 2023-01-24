@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "all",
+      "jenis": "Semua"
+    },
+    {
+      "id": 2,
+      "category": "movie",
+      "jenis": "Movie"
+    },
+    {
+      "id": 3,
+      "category": "tv",
+      "jenis": "TV"
+    },
+    {
+      "id": 4,
+      "category": "person",
+      "jenis": "Orang"
+    }
+  ]
+}
